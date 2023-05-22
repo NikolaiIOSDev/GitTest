@@ -14,6 +14,11 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    
+    func binarySearch(arr array:[Int], element:Int)->[Int]{
+        
+        
+    }
 
 }
 
